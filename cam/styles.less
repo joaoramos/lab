@@ -1,0 +1,69 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+// Colors
+
+@c1: 		rgba(15,55,86,1);
+@t1: 		rgba(5,35,66,1);
+@c2: 		rgba(242,203,5,1);
+@t2: 		rgba(222,183,0,1);
+@c3: 		rgba(229,130,0,1);
+@t3: 		rgba(209,110,0,1);
+@c4: 		rgba(127,45,1,1);
+@t4: 		rgba(107,25,0,1);
+@c5: 		rgba(64,1,1,1);
+@t5: 		rgba(44,0,0,1);
+@white: 	rgba(244,244,242,1);
+
+body {
+	font-family: 'Lucida Grande', sans-serif;
+	background: @white;
+	width: 100%;
+	height: 100%;
+	display: table;
+
+	video {
+		display: none;
+	}
+
+	section {
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+		overflow: hidden;
+
+		#s1, #s2, #s3 {
+			outline: none;
+			border: none;
+			padding: 0;
+			margin: 30px;
+			width: 250px;
+			height: 250px;
+			-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+		 -o-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+
+		#s1 {
+			background: @c4;
+		}
+
+		#s2 {
+			background: @c2;
+		}
+
+		#s3 {
+			background: @c1;
+		}
+
+		span {
+			display: block;
+			font-size: 12px;
+			color: @c4;
+		}
+	}
+}

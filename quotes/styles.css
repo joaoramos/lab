@@ -1,0 +1,8 @@
+html,body,ul,li{margin:0;padding:0;}
+body{color:#9a6868;}body ul{list-style:none;}body ul li{text-align:center;padding:150px 0;}body ul li h1 .dont{display:block;}
+body ul li#q1{background:#b88686;color:#9a6868;}body ul li#q1 h1 .dont{font-family:"bello-pro",sans-serif;font-size:140px;margin-bottom:20px;}
+body ul li#q1 h1 .trap{color:#9a6868;font-family:"adelle",serif;font-size:16px;text-transform:uppercase;letter-spacing:9px;word-spacing:9px;}
+body ul li#q2{background:#e3a83e;color:#432615;}body ul li#q2 h1 .dont{font-family:"bello-pro",sans-serif;font-size:140px;margin-bottom:20px;}
+body ul li#q2 h1 .trap{color:#c58a20;font-family:"adelle",serif;font-size:16px;text-transform:uppercase;letter-spacing:9px;word-spacing:9px;}
+body ul li#q3{background:#67949c;color:#49767e;}body ul li#q3 h1 .dont{font-family:"bello-pro",sans-serif;font-size:140px;margin-bottom:20px;}
+body ul li#q3 h1 .trap{color:#49767e;font-family:"adelle",serif;font-size:16px;text-transform:uppercase;letter-spacing:9px;word-spacing:9px;}

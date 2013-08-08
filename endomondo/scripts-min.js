@@ -1,0 +1,1 @@
+$(document).ready(function(){function e(e){return e.contentWindow?e.contentWindow.document:e.contentDocument}var t=e(document.querySelector("#endomondo"));console.log(t)});
