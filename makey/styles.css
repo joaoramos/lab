@@ -1,8 +1,0 @@
-html,body{margin:0;padding:0;}
-body{background:#f4f4f2;height:100%;width:100%;display:table;text-align:center;}body.left{background:#a62424;}body.left h1{color:#921010;}
-body.up{background:#d94436;}body.up h1{color:#c53022;}
-body.right{background:#d9a86c;}body.right h1{color:#c59458;}
-body.down{background:#f2d8a7;}body.down h1{color:#dec493;}
-body.a{background:#458c6b;}body.a h1{color:#317857;}
-body.b{background:#45f011;}body.b h1{color:#31dc00;}
-body h1{font-family:'Lucida Grande',sans-serif;font-size:50px;text-transform:capitalize;display:table-cell;vertical-align:middle;}body h1 span{font-size:20px;text-transform:none;}

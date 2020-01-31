@@ -1,5 +1,0 @@
-html,body{margin:0;padding:0;}
-body{font-family:'Lucida Grande',sans-serif;background:#f4f4f2;width:100%;height:100%;display:table;}body section{display:table-cell;vertical-align:middle;text-align:center;overflow:hidden;}body section #s1,body section #s2,body section #s3{outline:none;border:none;padding:0;margin:30px;width:250px;height:250px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;}
-body section #s2{display:inline-block;background:#f2cb05;}
-body section #s3{display:inline-block;}
-body section span{display:block;font-size:12px;color:#7f2d01;}
